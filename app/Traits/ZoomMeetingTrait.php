@@ -7,7 +7,7 @@ use Log;
 
 /**
  * trait ZoomMeetingTrait  
- */
+ */    
 trait ZoomMeetingTrait
 {
     public $client;
